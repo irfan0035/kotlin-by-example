@@ -3,7 +3,7 @@
 ```run-kotlin
 package org.kotlinlang.play         // 1
 
-fun main() {                        // 2
+fun {                        // 2
     println("Hello, World!")        // 3
 }
 ```
